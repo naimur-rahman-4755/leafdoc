@@ -100,11 +100,11 @@ NVIDIA Tesla T4 GPU
 📸 Screenshots
 
 
-![Home Screen](screenshots/home.png)
-![Diagnosis](screenshots/diagnosis.png)
-![Result](screenshots/result.png)
-![History](screenshots/history.png)
-![Library](screenshots/library.png)
+![Home Screen](screenshot/home.jpeg)
+![Diagnosis](screenshots/diagnosis.jpeg)
+![Result](screenshots/result.jgeg)
+![History](screenshots/history.jpeg)
+![Library](screenshots/library.jpeg)
 
 📦 Model Integration (TFLite)
 Model converted to .tflite
