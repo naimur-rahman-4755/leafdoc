@@ -99,12 +99,11 @@ Google Colab (Model Training)
 NVIDIA Tesla T4 GPU
 📸 Screenshots
 
-
-![Home Screen](screenshot/home.jpeg)
-![Diagnosis](screenshots/diagnosis.jpeg)
-![Result](screenshots/result.jgeg)
-![History](screenshots/history.jpeg)
-![Library](screenshots/library.jpeg)
+![Home Screen](screenshoot/home.jpeg)
+![Diagnosis](screenshoot/diagnosis.jpeg)
+![Result](screenshoot/result.jpeg)
+![History](screenshoot/history.jpeg)
+![Library](screenshoot/library.jpeg)
 
 📦 Model Integration (TFLite)
 Model converted to .tflite
